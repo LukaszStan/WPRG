@@ -1,0 +1,7 @@
+https://pogoda.interia.pl/#iwa_source=logo;Pogoda
+https://tvn24.pl/;Wiadomości
+https://poczta.wp.pl/login/login.html;Poczta
+https://jakdojade.pl/;Jak dojade
+https://www.przepisy.pl/;Przepisy kulinarne
+https://pixabay.com/pl/images/search/kot/;Koty
+http://promedia.pl/dowcipy,jasio,1;WAŻNE!!!
