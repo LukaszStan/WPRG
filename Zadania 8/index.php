@@ -1,6 +1,7 @@
 <?php
     session_start();
-    if(!$_SESSION['logged_in']){
+    if(empty($_SESSION['logged_in'])){
+        $_SESSION['logged_in'] = false;
         $_SESSION['id_uzytkownik'] = 1;
     }
 ?>
