@@ -1,7 +1,6 @@
 <?php
     include "klasy.php";
     session_start();
-//    $_SESSION['currentUser'] = new User();
     if(!($_SESSION['currentUser']->getLoggedin())){
         $_SESSION['currentUser'] = new User();
         $_SESSION['currentUser']->guest();
